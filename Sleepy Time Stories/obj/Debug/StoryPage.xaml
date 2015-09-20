@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="Sleepy_Time_Stories.StoryPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Sleepy_Time_Stories"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Image Source="Images/bedPhone2.PNG" Stretch="Fill" />
+        <Image x:ConnectionId='1' Source="Images/back.PNG" Stretch="Fill" Margin="115,0,125,603"                       />
+        <Image x:ConnectionId='2' x:Name="btnPlay" Source="Images/play4me.PNG" Stretch="Fill" Margin="10,590,233,0"                           />
+        <Image x:ConnectionId='3' x:Name="btnStop" Source="Images/stop.PNG" Stretch="Fill" Margin="246,597,10,0"                           />
+        <ListBox x:Name="displayMsg" FontFamily="Arial" FontWeight="Medium" FontSize="24" VerticalAlignment="Center" Width="400" Height="498" Margin="0,87,0,55" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="12,17,0,28" >
+                        <TextBlock Text="{Binding InspMessage}" TextWrapping="Wrap" Foreground="Yellow" VerticalAlignment="Center" x:Name="txStory" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Transparent" Offset="0" />
+                    <GradientStop Color="#003366" Offset="1" />
+                </LinearGradientBrush>
+            </ListBox.Background>
+        </ListBox>
+
+    </Grid>
+</Page>
+

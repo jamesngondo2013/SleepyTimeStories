@@ -1,0 +1,114 @@
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\App.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\About.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\ExtendedSplash.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\MainPage.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Reminder.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\StoryList.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\StoryPage.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.xr.xml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.exe
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.pdb
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\resources.pri
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\AppxManifest.xml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.build.appxrecipe
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.g.i.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\XamlSaveStateFile.xml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.xaml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.xbf
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Sleepy Time Stories.exe
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Sleepy Time Stories.pdb
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\priconfig.xml
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\priconfig.xml.intermediate
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\layout.resfiles
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\layout.resfiles.intermediate
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\resources.resfiles
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\resources.resfiles.intermediate
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\pri.resfiles
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\pri.resfiles.intermediate
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\qualifiers.txt
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\qualifiers.txt.intermediate
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\James\Desktop\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ProjectArchitectures.txt
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\ExtendedSplash.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Reminder.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\StoryList.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\StoryPage.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.xr.xml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.exe
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.pdb
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\resources.pri
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\AppxManifest.xml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\bin\Debug\Sleepy Time Stories.build.appxrecipe
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.g.i.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\XamlTypeInfo.g.cs
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ExtendedSplash.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Reminder.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\XamlSaveStateFile.xml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.xaml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryList.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\StoryPage.xbf
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Sleepy Time Stories.exe
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\Sleepy Time Stories.pdb
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\priconfig.xml
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\priconfig.xml.intermediate
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\layout.resfiles
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\layout.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\resources.resfiles
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\resources.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\pri.resfiles
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\pri.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\qualifiers.txt
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\qualifiers.txt.intermediate
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\GMIT HACAKTHON APPS\Sleepy Time Stories\Sleepy Time Stories\Sleepy Time Stories\obj\Debug\ProjectArchitectures.txt

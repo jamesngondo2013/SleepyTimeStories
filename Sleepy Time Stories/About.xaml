@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Sleepy_Time_Stories.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Sleepy_Time_Stories"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Image Source="Images/bedPhone1.PNG" Stretch="Fill" />
+        <Image Source="Images/back.PNG" Stretch="Fill" Margin="140,593,133,0" Tapped="Image_Tapped" />
+        <TextBlock Name="aboutTheGame" HorizontalAlignment="Left" Margin="17,167,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="403" Width="373" FontSize="24" Foreground="White"/>
+    </Grid>
+</Page>
